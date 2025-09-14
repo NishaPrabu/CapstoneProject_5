@@ -1,0 +1,17 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+/bin/
+/target/
+/test-output/
+
+# IntelliJ / VSCode (if sometimes used)
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
